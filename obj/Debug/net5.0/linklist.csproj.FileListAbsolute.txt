@@ -1,0 +1,16 @@
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.csproj.AssemblyReference.cache
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.AssemblyInfoInputs.cache
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.AssemblyInfo.cs
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.csproj.CoreCompileInputs.cache
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.exe
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.deps.json
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.runtimeconfig.json
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.runtimeconfig.dev.json
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.dll
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\ref\linklist.dll
+C:\Users\s3336\Documents\Code\LinkList\bin\Debug\net5.0\linklist.pdb
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.dll
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\ref\linklist.dll
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.pdb
+C:\Users\s3336\Documents\Code\LinkList\obj\Debug\net5.0\linklist.genruntimeconfig.cache
